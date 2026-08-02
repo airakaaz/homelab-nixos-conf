@@ -1,0 +1,10 @@
+require("plugins.lualine")
+require("plugins.bufferline")
+require("plugins.which-key")
+require("plugins.snacks")
+require("plugins.noice")
+require("plugins.treesitter")
+require("plugins.cmp")
+require("plugins.mini")
+require("plugins.flash")
+
