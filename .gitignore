@@ -1,0 +1,9 @@
+*cache
+/gh
+/environment.d
+/fontconfig
+/systemd
+/pulse
+/fish
+/superfile
+/lazygit
